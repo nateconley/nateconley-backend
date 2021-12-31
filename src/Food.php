@@ -13,7 +13,10 @@ class Food {
 	public function register_architecture() {
 
 		\register_extended_post_type(
-			'food'
+			'food',
+			[
+				'show_in_rest' => true,
+			]
 		);
 
 	}
