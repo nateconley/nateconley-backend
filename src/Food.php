@@ -15,7 +15,10 @@ class Food {
 		\register_extended_post_type(
 			'food',
 			[
-				'show_in_rest' => true,
+				'show_in_rest'        => true,
+				'show_in_graphql'     => true,
+				'graphql_single_name' => 'food',
+				'graphql_plural_name' => 'foods',
 			]
 		);
 
