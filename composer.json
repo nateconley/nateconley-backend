@@ -1,0 +1,12 @@
+{
+    "name": "nateconley/nateconley-backend",
+    "authors": [
+        {
+            "name": "Nate Conley",
+            "homepage": "https://nateconley.com"
+        }
+    ],
+    "require": {
+        "johnbillion/extended-cpts": "^4.5"
+    }
+}
