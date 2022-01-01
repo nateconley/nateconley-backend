@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Nate Conley Backend Functionality
- * Text Domain: ncmu
+ * Text Domain: nc-backend
  *
  * @package NateConley\Backend
  */
